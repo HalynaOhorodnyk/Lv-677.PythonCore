@@ -9,4 +9,4 @@ for f in range(0 ,number_for_stop):
     b = c
     c = a + b
 
-    print(c)
+    print(c, end=' ')
